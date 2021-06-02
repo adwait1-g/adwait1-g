@@ -11,4 +11,3 @@ I blog [here](https://www.pwnthebox.net/). Most of it tech related, but sometime
 - 🔭 I’m currently working on understanding Rust better. Trying to do a quantitative comparison with C. If time permits, I want to give a comparison with Go as well. You can checkout my findings [here](https://www.pwnthebox.net/rust/2020/10/11/rust-c-experiments.html).
 - 🌱 I’m currently crazy about event driven programming!
 - 💬 Ask me about anything low level, binaries, compilers, programming languages, Rust, systems programming you get the point :P
-- 📫 How to reach me: Twitter: @adwaithgautham, Email: adwait.gautham@gmail.com
