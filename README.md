@@ -4,7 +4,7 @@ I am Adwaith, currently working as a software engineer at Cisco Systems, Bangalo
 
 I explored offensive security during my college days - vulnerabilities, exploitation methods, reverse engineering, writing security tools etc., This was limited to the userspace and kernelspace. Offlate, I am exploring stuff related to Pre-OS state - BIOS, UEFI, Firmware, Firmware security and analysis, Reversing firmware etc., Apart from this, I have also spent some time understanding TPM, concept of Root-of-Trust, Formal logic and Solvers.
 
-I blog [here](https://www.pwnthebox.net/).
+I blog [here](https://www.pwnthebox.net/). I write summaries and simple implementations of research papers and articles I find interesting. I document the experiments I do here.
 
 - I am currently trying to understand the pre-OS state better. Understand BIOS, UEFI, learning to analyze firmware and more.
 - I am fascinated by Rustlang. I experiment with it and compare it with C. I have documented some findings [here](https://www.pwnthebox.net/rust/2020/10/11/rust-c-experiments.html).
